@@ -1,0 +1,19 @@
+.profile-image{
+    border-radius: 50%;
+    border: 5px solid rgb(203, 201, 201);
+}
+
+.feature-icon {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+
+.contact-img{
+    width: 40%;
+    height: 40vh;
+}
+
+.message{
+    padding-bottom: 100px;
+}
